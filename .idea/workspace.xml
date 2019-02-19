@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="992516c1-3d04-4de3-a80f-f2ad3939b29a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/appium_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AppAutomationTestV2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bat_script/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bat_script/kill.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/send_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_all_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_all_cases.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,31 +18,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_in_test_login_fail_py.coverage" NAME="Unittests in test_login_fail.py Coverage Results" MODIFIED="1544618779378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1549973179665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_Login.coverage" NAME="Unittests for test_login.Login Coverage Results" MODIFIED="1544538400681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$check_port.coverage" NAME="check_port Coverage Results" MODIFIED="1549971866004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_register_Register.coverage" NAME="Unittests for test_register.Register Coverage Results" MODIFIED="1544437020476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_Login_test_login_failed.coverage" NAME="Unittests for test_login.Login.test_login_failed Coverage Results" MODIFIED="1544449528446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_in_test_register_py.coverage" NAME="Unittests in test_register.py Coverage Results" MODIFIED="1544531584610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$appium_devices_sync.coverage" NAME="appium_devices_sync Coverage Results" MODIFIED="1549972865274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_login_Login.coverage" NAME="pytest for test_login.Login Coverage Results" MODIFIED="1544425529311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_register_Register_test_register_by_username_password.coverage" NAME="Unittests for test_register.Register.test_register_by_username_password Coverage Results" MODIFIED="1544531965781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_Login_test_login_by_username_password.coverage" NAME="Unittests for test_login.Login.test_login_by_username_password Coverage Results" MODIFIED="1544528067799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_fail_LoginFail_test_login_failed.coverage" NAME="Unittests for test_login_fail.LoginFail.test_login_failed Coverage Results" MODIFIED="1544618799383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$multi_appium.coverage" NAME="multi_appium Coverage Results" MODIFIED="1549969599842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/appium_demo$phone_information.coverage" NAME="phone_information Coverage Results" MODIFIED="1549974797422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untils" />
-    <SUITE FILE_PATH="coverage/appium_demo$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1544425484566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$multi_devices_sync.coverage" NAME="multi_devices_sync Coverage Results" MODIFIED="1549968301303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/appium_demo$desired_caps__1_.coverage" NAME="desired_caps (1) Coverage Results" MODIFIED="1544544806021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commontest" />
     <SUITE FILE_PATH="coverage/appium_demo$start_run.coverage" NAME="start_run Coverage Results" MODIFIED="1544544141688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_register_Register_test_register_by_username_password.coverage" NAME="Unittests for test_register.Register.test_register_by_username_password Coverage Results" MODIFIED="1544531965781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/appium_demo$homeView.coverage" NAME="homeView Coverage Results" MODIFIED="1544541913022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/businessView" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_Login.coverage" NAME="Unittests for test_login.Login Coverage Results" MODIFIED="1544538400681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/appium_demo$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1544624047324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/appium_demo$desired_caps.coverage" NAME="desired_caps Coverage Results" MODIFIED="1549967900309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/appium_demo$multi_appium.coverage" NAME="multi_appium Coverage Results" MODIFIED="1549969599842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_fail_LoginFail_test_login_failed.coverage" NAME="Unittests for test_login_fail.LoginFail.test_login_failed Coverage Results" MODIFIED="1544618799383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/appium_demo$android_debug_bridge.coverage" NAME="android_debug_bridge Coverage Results" MODIFIED="1549977916393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untils" />
+    <SUITE FILE_PATH="coverage/appium_demo$desired_caps__1_.coverage" NAME="desired_caps (1) Coverage Results" MODIFIED="1544544806021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commontest" />
     <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_fail_LoginFail.coverage" NAME="Unittests for test_login_fail.LoginFail Coverage Results" MODIFIED="1544540831270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
-    <SUITE FILE_PATH="coverage/appium_demo$runner.coverage" NAME="runner Coverage Results" MODIFIED="1549983964141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_Login_test_login_by_username_password.coverage" NAME="Unittests for test_login.Login.test_login_by_username_password Coverage Results" MODIFIED="1544528067799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/appium_demo$multi_devices_sync.coverage" NAME="multi_devices_sync Coverage Results" MODIFIED="1549968301303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/appium_demo$desired_caps.coverage" NAME="desired_caps Coverage Results" MODIFIED="1549967900309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_in_test_login_fail_py.coverage" NAME="Unittests in test_login_fail.py Coverage Results" MODIFIED="1544618779378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_for_test_login_Login.coverage" NAME="pytest for test_login.Login Coverage Results" MODIFIED="1544425529311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/appium_demo$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1544425484566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
     <SUITE FILE_PATH="coverage/appium_demo$run_all_cases.coverage" NAME="run_all_cases Coverage Results" MODIFIED="1544428464146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_login_Login_test_login_failed.coverage" NAME="Unittests for test_login.Login.test_login_failed Coverage Results" MODIFIED="1544449528446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/appium_demo$runner.coverage" NAME="runner Coverage Results" MODIFIED="1549983964141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1549973179665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/appium_demo$appium_devices_sync.coverage" NAME="appium_devices_sync Coverage Results" MODIFIED="1549972865274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_in_test_register_py.coverage" NAME="Unittests in test_register.py Coverage Results" MODIFIED="1544531584610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/appium_demo$check_port.coverage" NAME="check_port Coverage Results" MODIFIED="1549971866004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/appium_demo$phone_information.coverage" NAME="phone_information Coverage Results" MODIFIED="1549974797422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untils" />
+    <SUITE FILE_PATH="coverage/appium_demo$Unittests_for_test_register_Register.coverage" NAME="Unittests for test_register.Register Coverage Results" MODIFIED="1544437020476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -51,78 +58,16 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1585161555">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="bat" value="1" />
-          <entry key="conf" value="6" />
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="4" />
-          <entry key="lnk" value="1" />
-          <entry key="log" value="11" />
-          <entry key="md" value="1" />
-          <entry key="png" value="1" />
-          <entry key="py" value="189" />
-          <entry key="pyi" value="3" />
-          <entry key="yaml" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="4" />
-          <entry key="Image" value="1" />
-          <entry key="Log" value="11" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="189" />
-          <entry key="PythonStub" value="3" />
-          <entry key="YAML" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="55" />
-          <entry key="bat" value="13" />
-          <entry key="conf" value="47" />
-          <entry key="md" value="90" />
-          <entry key="py" value="6818" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="60" />
-          <entry key="Python" value="6872" />
-          <entry key="RegExp" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/run_all_cases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+              <folding>
+                <element signature="e#16#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,7 +129,6 @@
         <option value="$PROJECT_DIR$/HTMLTestRunner2.py" />
         <option value="$PROJECT_DIR$/HTMLTestRunnerCN2.py" />
         <option value="$PROJECT_DIR$/config/log.conf" />
-        <option value="$PROJECT_DIR$/run_all_cases.py" />
         <option value="$PROJECT_DIR$/common/send_email.py" />
         <option value="$PROJECT_DIR$/common/appium_log/4723.log" />
         <option value="$PROJECT_DIR$/common/multi_appium.py" />
@@ -208,20 +152,14 @@
         <option value="$PROJECT_DIR$/untils/base_runner.py" />
         <option value="$PROJECT_DIR$/common/kyb_test.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/run_all_cases.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="513" />
-    <option name="y" value="2" />
-    <option name="width" value="1047" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -229,18 +167,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="appium_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="appium_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="AppAutomationTestV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppAutomationTestV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppAutomationTestV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppAutomationTestV2" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppAutomationTestV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppAutomationTestV2" type="462c0819:PsiDirectoryNode" />
+              <item name="baseView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppAutomationTestV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppAutomationTestV2" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,7 +223,7 @@
   </component>
   <component name="RunManager" selected="Python.runner">
     <configuration name="android_debug_bridge" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="appium_demo" />
+      <module name="AppAutomationTestV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -292,7 +245,7 @@
       <method v="2" />
     </configuration>
     <configuration name="appium_devices_sync" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="appium_demo" />
+      <module name="AppAutomationTestV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -314,7 +267,7 @@
       <method v="2" />
     </configuration>
     <configuration name="phone_information" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="appium_demo" />
+      <module name="AppAutomationTestV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -336,7 +289,7 @@
       <method v="2" />
     </configuration>
     <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="appium_demo" />
+      <module name="AppAutomationTestV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -358,7 +311,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="appium_demo" />
+      <module name="AppAutomationTestV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\Allen Tang\AppData\Local\Programs\Python\Python37-32\python.exe" />
@@ -374,7 +327,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="appium_demo" />
+      <module name="AppAutomationTestV2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\Allen Tang\AppData\Local\Programs\Python\Python37-32\python.exe" />
@@ -391,10 +344,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.appium_devices_sync" />
-      <item itemvalue="Python tests.Unittests in test_login.py" />
       <item itemvalue="Python.phone_information" />
       <item itemvalue="Python.android_debug_bridge" />
       <item itemvalue="Python.runner" />
+      <item itemvalue="Python tests.Unittests in test_login.py" />
     </list>
     <recent_temporary>
       <list>
@@ -418,6 +371,7 @@
       <updated>1544421110112</updated>
       <workItem from="1544421111632" duration="2875000" />
       <workItem from="1544424015828" duration="55236000" />
+      <workItem from="1550565350283" duration="84000" />
     </task>
     <servers />
   </component>
@@ -454,7 +408,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58111000" />
+    <option name="totallyTimeSpent" value="58195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,10 +420,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2140575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -483,7 +437,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36550975" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36497176" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3603505" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -517,20 +471,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/common/send_email.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -572,63 +512,16 @@
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/re.pyi">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/Python/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="155" column="14" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Python/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1069" selection-start-line="1069" selection-end-line="1069" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1015" column="30" selection-start-line="1015" selection-start-column="8" selection-end-line="1015" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Lib/re.py" />
+    <entry file="file://E:/Python/Lib/logging/__init__.py" />
+    <entry file="file://E:/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://$PROJECT_DIR$/reports/appium_demo.lnk" />
-    <entry file="file://E:/Python/Lib/ntpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="220" selection-start-line="220" selection-end-line="220" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/runlog.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-13250">
-          <caret line="85" column="62" lean-forward="true" selection-start-line="84" selection-start-column="55" selection-end-line="85" selection-end-column="62" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Lib/ntpath.py" />
+    <entry file="file://$PROJECT_DIR$/logs/runlog.log" />
     <entry file="file://$PROJECT_DIR$/config/log.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#15#24#0" expanded="true" />
-            <marker date="1544624426199" expanded="true" signature="171:176" ph="..." />
-            <marker date="1544624426199" expanded="true" signature="1212:1221" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,13 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Python/Lib/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="976" column="4" selection-start-line="976" selection-start-column="4" selection-end-line="976" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Lib/os.py" />
     <entry file="file://$PROJECT_DIR$/common/appium_log/4725.log" />
     <entry file="file://$PROJECT_DIR$/common/appium_log/4723.log" />
     <entry file="file://$PROJECT_DIR$/businessView/homeView.py">
@@ -663,20 +550,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/untils/parmeris.py" />
-    <entry file="file://E:/Python/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="397" column="42" selection-start-line="397" selection-start-column="35" selection-end-line="397" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bat_script/kill.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Lib/unittest/case.py" />
     <entry file="file://$PROJECT_DIR$/config/kyb_caps.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -684,34 +558,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Python/Lib/unittest/loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="228" column="49" selection-start-line="228" selection-start-column="49" selection-end-line="228" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1052162567/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="2592" column="8" selection-start-line="2592" selection-start-column="8" selection-end-line="2592" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Python/Lib/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="656" selection-start-line="656" selection-end-line="656" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Python/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Lib/unittest/loader.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1052162567/builtins.py" />
+    <entry file="file://E:/Python/Lib/multiprocessing/pool.py" />
+    <entry file="file://E:/Python/Lib/unittest/suite.py" />
     <entry file="file://$PROJECT_DIR$/reports/test_report_20190212225315.html" />
     <entry file="file://$PROJECT_DIR$/baseView/baseView.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -808,13 +658,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/appium_devices_sync.py" />
-    <entry file="file://$PROJECT_DIR$/common/kyb_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="47" lean-forward="true" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/common_fun.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -823,16 +666,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/start_run.py" />
-    <entry file="file://$PROJECT_DIR$/run_all_cases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" selection-start-line="14" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#16#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/test_case_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -861,13 +694,50 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/bat_script/kill.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/kyb_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#15#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
