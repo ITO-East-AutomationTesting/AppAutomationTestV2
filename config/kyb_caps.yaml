@@ -1,0 +1,18 @@
+platformName: Android
+#模拟器
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62025
+
+# Galaxy S9
+#platformVersion: 8.0.0
+#deviceName: Galaxy S9
+
+appname: kaoyan3.1.0.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723
